@@ -1,0 +1,2 @@
+# Rstudio
+ejercicio clase
